@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ronakleid/20-09-20/issues"
   },
-  "homepage": "https://github.com/ronakleid/20-09-20#readme"
+  "homepage": "https://github.com/ronakleid/20-09-20#readme",
+  "dependencies": {
+    "url-parse": "^1.4.7"
+  }
 }
